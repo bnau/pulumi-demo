@@ -1,0 +1,5 @@
+encryptionsalt: v1:vQ90Og6Sb5U=:v1:djmzNgpQDj23aVsS:zxvfEsavEqpFAJ31pblZc1+SXhPKdg==
+config:
+  demo-pulumi:dbPassword:
+    secure: v1:cIbFV8i3rhQ2utU/:fP6Oea3Ik5qMqA1n7oxmfXYZcUrhP0d89j9y
+  demo-pulumi:dbUser: demo
