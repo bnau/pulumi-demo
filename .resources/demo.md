@@ -1,13 +1,10 @@
 ### Template à importer
+* imp
 * fnb
 * bdd
-* imp
 * cred
-* dbu
-* dbp
 * fna
 * app
-Rajouter un `export` avant le `const url = app(dbHost);`
 
 ### Lancer la démo
 ```
