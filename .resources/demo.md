@@ -1,3 +1,9 @@
+### Installation bitnami
+
+```shell
+helm repo add bitnami https://charts.bitnami.com/bitnami
+```
+
 ### Template à importer
 * imp
 * fnb
